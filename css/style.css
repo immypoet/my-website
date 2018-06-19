@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    /* background-image: url("../css/images/Immy.jpg"); */
+}
+nav{
+    background-color: rgb(42, 77, 231);
+    padding: 3px;
+    color: #fff;
+
+}
+nav ul{
+    list-style: none;
+
+}
+nav ul li{
+    display: inline;
+    font-size: 18px;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+img{
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
